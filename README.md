@@ -39,5 +39,11 @@ http://127.0.0.1:8060/client2/index.html
 
 ​	这里有很多人会报JWT找不到的错误,这个问题我之前也遇到过,具体可以查看相关的依赖配置,注意pom包的引入应该都是SpringBoot的,而不是SpringCloud的包,这个之前是因为包的问题引入错误导致的,至于其他原因的产生可以试着运行下本人的代码并进行对照查看,有什么问题可以留言给我,**欢迎点星支持和交流!**
 
+#### 4.项目git地址
+
+<font color=#68228B  size=3>(喜欢记得点星支持哦,谢谢!)</font> 
+
+<font color=#EEB422   size=4>[https://github.com/fengcharly/spring-security-oauth2.0](https://github.com/fengcharly/spring-security-oauth2.0)</font>
+
 
 
