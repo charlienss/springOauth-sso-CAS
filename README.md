@@ -43,7 +43,7 @@ http://127.0.0.1:8060/client2/index.html
 
 <font color=#68228B  size=3>(喜欢记得点星支持哦,谢谢!)</font> 
 
-<font color=#EEB422   size=4>[https://github.com/fengcharly/spring-security-oauth2.0](https://github.com/fengcharly/spring-security-oauth2.0)</font>
+<font color=#EEB422   size=4>https://github.com/fengcharly/springOauth-sso-CAS</font>
 
 
 
